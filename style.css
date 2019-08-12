@@ -1,0 +1,42 @@
+
+
+body{
+	background-color: #cce6ff;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	width: 700px;
+  	margin: auto;
+}
+
+.selfie{
+	width: 200px;
+	height: 250px;
+}
+
+h1 {
+	font-size: 35px;
+	color: #466995;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 30px;
+}
+
+h4 a{
+	font-size: 25px;
+	color: #4da6ff;
+}
+
+img{
+	width: 200px;
+	height: 300px;
+}
+
+.proj1 {
+	width:300px;
+	height: 200px;
+}
+
+li {
+	text-align: left;
+}
+
